@@ -14,5 +14,3 @@ const big: Bigger = {
   age: 20,
   address: "402"
 }
-
-const small: Smaller = big;

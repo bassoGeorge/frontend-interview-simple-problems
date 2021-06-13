@@ -1,24 +1,6 @@
 const person = {
-	name: "John",
+	Name: "John",
 	getName: function() {
-		return this.name;
-	}
+		console.log(this.Name);
+  }
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
